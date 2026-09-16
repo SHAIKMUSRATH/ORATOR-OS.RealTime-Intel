@@ -58,4 +58,4 @@ The purpose of ORATORS-OS is to create a centralized platform where users can di
 
 B.Tech Computer Science & Engineering (2025)
 
-GitHub Repository: ORATORS-OS# ORATORS-OS.
+GitHub Repository: #ORATOR-OS.
