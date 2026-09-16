@@ -48,9 +48,9 @@ The purpose of ORATORS-OS is to create a centralized platform where users can di
 - Bookmark Favorite Resources
 - Progress Tracking Dashboard
 
-## Screenshots
+## Homepage Screenshot
 
-![ORATORS-OS Homepage](images/homepage.png)
+![ORATORS-OS Homepage](homepage.png)
 
 ## Author
 
