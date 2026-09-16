@@ -36,9 +36,14 @@ MyWebsite/
 └── images/
 ```
 
+## Development Process 
+
+This project was developed using AI-assisted development tools, including ChatGPT and Antigravity, to accelerate development, generate ideas, improve user experience, and streamline implementation.
+
+The project structure, content organization, customization, testing, and deployment were reviewed and managed throughout the development process.
+
 ## Purpose
 
-The purpose of ORATORS-OS is to create a centralized platform where users can discover useful books, activities, and educational resources that support continuous learning and personal growth.
 
 ## Future Enhancements
 
