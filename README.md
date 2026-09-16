@@ -50,7 +50,7 @@ The purpose of ORATORS-OS is to create a centralized platform where users can di
 
 ## Screenshots
 
-
+![ORATORS-OS Homepage](images/homepage.png)
 
 ## Author
 
